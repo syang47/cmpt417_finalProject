@@ -10,6 +10,6 @@ MAPF instances can be viewd inside instances folder.
 `python run_experiments.py --instance "instances/test_*" --solver BCBS --batch`
 
 
-## To run individua instance, replace *** with desired instance
+## To run individual instance, replace *** with desired instance
 
 `python run_experiments.py --instance "instances/***" --solver BCBS`
